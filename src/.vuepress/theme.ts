@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  // repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
 
@@ -31,7 +31,8 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "一个前端开发者",
+    avatar: "https://avatars.githubusercontent.com/theflyingraymond",
+    description: "敢想不敢为者 终困牢笼",
     intro: "/intro.html",
     medias: {
       // Baidu: "https://example.com",

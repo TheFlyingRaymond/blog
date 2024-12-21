@@ -2,8 +2,8 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/mybatis/",
-  "/coding/",
+  "/posts/rd/",
+  "/posts/sports/",
   // {
   //   text: "博文",
   //   icon: "pen-to-square",

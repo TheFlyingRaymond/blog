@@ -1,6 +1,7 @@
 ---
-title: 算法
+title: MyBatis
 index: false
+article: false
 icon: laptop-code
 category:
   - 计算机
