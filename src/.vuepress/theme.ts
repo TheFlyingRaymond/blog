@@ -32,7 +32,7 @@ export default hopeTheme({
   // 博客相关
   blog: {
     avatar: "https://avatars.githubusercontent.com/theflyingraymond",
-    description: "敢想不敢为者 终困牢笼",
+    description: "I'm getting tired of the pouring rain, darling",
     intro: "/intro.html",
     medias: {
       // Baidu: "https://example.com",

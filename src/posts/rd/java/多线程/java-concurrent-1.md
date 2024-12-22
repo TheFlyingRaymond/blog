@@ -4,11 +4,12 @@ date: 2024-12-21
 category:
   - 计算机
 tag:
-  - MyBatis
-  - Database
+  - Java
 ---
 
 # Java多线程总结（一）：系统理论基础
+
+<!-- more -->
 
 ## 一、Java多线程发展历史
 Java多线程的发展可以简单从几个较为关键的点来介绍：

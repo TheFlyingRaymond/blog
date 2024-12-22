@@ -1,13 +1,16 @@
 ---
-title : Java多线程总结（二）：Java理论基础
 icon: pen-to-square
 date: 2024-12-21
 category:
   - 计算机
 tag:
-  - MyBatis
-  - Database
+  - Java
 ---
+
+# Java多线程总结（二）：Java理论基础
+
+<!-- more -->
+
 
 ## 一、JMM
 

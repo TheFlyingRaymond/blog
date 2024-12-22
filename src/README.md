@@ -7,7 +7,7 @@ heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 阿成的春天和我的太阳
 heroFullScreen: true
 bgImage: https://theflyingraymond.oss-rg-china-mainland.aliyuncs.com/blog-image.png
-tagline: I'm getting tired of the pouring rain darling
+tagline: A prayer for the wild at the heart, kept in cages.
 projects:
   # - icon: project
   #   name: 项目名称

@@ -6,6 +6,7 @@ category:
 tag:
   - MyBatis
   - Database
+  - ORM
 ---
 
 # 【主线】实现MyBatis：Chapter0: 介绍
