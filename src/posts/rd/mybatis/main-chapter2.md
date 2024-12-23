@@ -172,7 +172,6 @@ public class XMLConfigBuilder {
     ├── binding
     │   └── MapperRegistry.java
     ├── builder
-    │   ├── BaseBuilder.java
     │   └── XMLConfigBuilder.java
     ├── datasource
     │   ├── DataSourceFactory.java
